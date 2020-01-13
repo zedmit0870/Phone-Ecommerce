@@ -1,0 +1,4 @@
+npm install --save bootstrap
+npm install --save react-router-dom
+iconfinder.com
+styled components for css : npm install --save styled-components
